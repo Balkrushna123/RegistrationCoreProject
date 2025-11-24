@@ -10,4 +10,4 @@ namespace RegistrationCoreProject
 
         public string? Summary { get; set; }
     }
-}
+}/////////
